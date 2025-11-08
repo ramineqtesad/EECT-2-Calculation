@@ -1,0 +1,30 @@
+
+---
+
+## 🔹 How to Run
+1. Clone the repository:  
+   `git clone https://github.com/ramineqtesad/EECT-EEI-Calculation.git`
+2. Install dependencies:  
+   `pip install -r requirements.txt`
+3. Run the main workflow:  
+   `python scripts/run_eei_model.py`
+4. Output: Entropy maps, SHAP importance charts, and threshold analysis.
+
+---
+
+## 🔹 Citation
+If you use this workflow, please cite:
+> Gozarani Eghtesad, R. (2025). *Satellite-Derived Entropy Indicators for Early Warning of Ecosystem Collapse: A Machine Learning Approach Based on the Extended Entropy–Ecological Cycles Theory (EECT).* Submitted to JAG.
+
+---
+
+## 🔹 License
+This work is released under the **CC-BY 4.0 license** for open scientific reproducibility.
+
+---
+
+## 🔹 Contact
+**Author:** Ramin Gozarani Eghtesad  
+**Affiliation:** University of Tabriz, Faculty of Agricultural Economics  
+**Email:** ramineqtesad@tabrizu.ac.ir  
+**ORCID:** 0009-0002-8667-8738
